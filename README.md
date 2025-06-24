@@ -12,9 +12,9 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.1+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/kemetpass?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/kemetpass?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/kemetpass?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mohamedgobaraa/KemetPass-mobile-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohamedgobaraa/KemetPass-mobile-app?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mohamedgobaraa/KemetPass-mobile-app?style=social)
 
 </div>
 
@@ -67,20 +67,6 @@ KemetPass is a revolutionary **Flutter mobile application** that brings ancient 
 
 </details>
 
-## 📱 Screenshots
-
-<div align="center">
-
-| Home Screen | AR Experience | Hieroglyphic Translator |
-|:-----------:|:-------------:|:----------------------:|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/ar.png" width="200"> | <img src="screenshots/translator.png" width="200"> |
-
-| Trip Planner | Weather | Community |
-|:------------:|:-------:|:---------:|
-| <img src="screenshots/planner.png" width="200"> | <img src="screenshots/weather.png" width="200"> | <img src="screenshots/community.png" width="200"> |
-
-</div>
-
 ## 🚀 Quick Start
 
 <details>
@@ -98,7 +84,7 @@ KemetPass is a revolutionary **Flutter mobile application** that brings ancient 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kemetpass.git
+git clone https://github.com/mohamedgobaraa/KemetPass-mobile-app.git
 cd kemetpass
 
 # Get Flutter dependencies
@@ -257,21 +243,6 @@ kemetpass/
 
 </div>
 
-## 🎮 Features Demo
-
-<div align="center">
-
-### 🔄 AR Experience
-![AR Demo](https://via.placeholder.com/600x300/FFD700/000000?text=AR+Experience+Demo)
-
-### 🔤 Hieroglyphic Translation
-![Translation Demo](https://via.placeholder.com/600x300/4169E1/FFFFFF?text=Translation+Feature+Demo)
-
-### 🗺️ Trip Planning
-![Trip Planner Demo](https://via.placeholder.com/600x300/32CD32/000000?text=Trip+Planner+Demo)
-
-</div>
-
 ## 🤝 Contributing
 
 We welcome contributions to KemetPass! Here's how you can help:
@@ -306,20 +277,6 @@ git push origin feature/amazing-feature
 
 </details>
 
-## 🐛 Bug Reports & 💡 Feature Requests
-
-- **Bug Reports**: Use the [Issue Tracker](https://github.com/yourusername/kemetpass/issues)
-- **Feature Requests**: Open a [Feature Request](https://github.com/yourusername/kemetpass/issues/new?template=feature_request.md)
-- **Security Issues**: Email us at security@kemetpass.com
-
-## 📈 Roadmap
-
-- [ ] **v2.0** - Enhanced AR features with 3D models
-- [ ] **v2.1** - Offline translation capabilities
-- [ ] **v2.2** - Social features and user profiles
-- [ ] **v3.0** - VR support and immersive experiences
-- [ ] **v3.1** - Multi-language support (French, German, Chinese)
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -338,14 +295,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 📞 Contact & Support
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kemetpass.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/kemetpass)
-[![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/yourusername/kemetpass#readme)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kemetpass)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.mohamed.gobara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedgobaraa/KemetPass-mobile-app)
+[![Documentation](https://img.shields.io/badge/Docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/mohamedgobaraa/KemetPass-mobile-app#readme)
 
 **Made with ❤️ for Egyptian Cultural Heritage**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.kemetpass)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mohamedgobaraa.KemetPass-mobile-app)
 
 </div>
 
