@@ -1,0 +1,2 @@
+D:/Flutter_Apps/kemetpass/android/app/.cxx/Debug/si2xoa21/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Flutter_Apps/kemetpass/android/app/.cxx/Debug/si2xoa21/armeabi-v7a/CMakeFiles/rebuild_cache.dir
